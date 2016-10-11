@@ -1,0 +1,65 @@
+{
+  "me": {
+    "bio": {
+      "name": "Seunghun Lee",
+      "role": "Front End Developer",
+      "contacts": [
+        {
+          "mobile": "+1 6475709704",
+          "email": "markandsh@gmail.com",
+          "github": "https://github.com/Seunghunsh",
+          "twitter": "https://twitter.com/lifeartlee",
+          "location": "Toronto, ON, Canada"
+        }
+      ],
+      "welcomeMessage": "Front end web developer who likes working in teams with great life&communication skills.",
+      "skills": [
+        "React.js",
+        "Redux",
+        "Node.js",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Front end",
+        "Backend",
+        "Django",
+        "Python",
+        "Java",
+        "C++"
+      ],
+      "biopic": "https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/12821536_1167450359962479_903788728259410674_n.jpg?oh=5ca327d04bc9f330f01fa32febc91ac4&oe=589D7C87",
+      "display": "function taking no parameters"
+    },
+    "education": {
+      "schools": [
+        {
+          "name": "San Francisco State University",
+          "location": "San Francisco, CA, USA",
+          "degree": "Computer Science B.S",
+          "dates": "July, 2016"
+        }
+      ],
+      "display": "function taking no parameters"
+    },
+    "work": {
+      "jobs": [
+        {
+          "employer": "Lokafy",
+          "title": "Full Stack Developer intern",
+          "location": "Toronto, Canada",
+          "dates": "2016.08-2016.10",
+          "description": "improved social login, booking functions, look of the website."
+        }
+      ],
+      "display": "function taking no parameters"
+    },
+    "projects": {
+      "projects": [
+        {
+          "title": "Restaurant Search app, Twitter live stream, Movie filter, E-commerce"
+        }
+      ],
+      "display": "function taking no parameters"
+    }
+  }
+}
